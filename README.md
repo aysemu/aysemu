@@ -73,16 +73,6 @@ Karabük Üniversitesi Bilgisayar Mühendisliği mezunuyum. **Full-Stack Web/Mob
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysemu&show_icons=true&theme=dark&hide_border=true" alt="Ayşe Nur's GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysemu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="380" height="165" />
-</div>
-
----
-
 ### 📫 İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aysenurarikdogan)
